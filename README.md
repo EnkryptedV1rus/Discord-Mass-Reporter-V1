@@ -1,1 +1,25 @@
-![Version](https://img.shields.io/badge/1.3.0)
+# ☣ VANTA | MULTI-NODE MASS REPORTER 
+
+![Version](https://img.shields.io/badge/Version-4.0.2-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10+-black?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Status-Operational-green?style=for-the-badge)
+
+> **VANTA** is a high-performance, multi-threaded coordination kernel designed for synchronized node operations. Optimized for speed, stealth, and high-fidelity telemetry.
+
+---
+
+## ⚡ Core Features
+
+* **Multi-Node Synchronization**: Deploy 3+ bot tokens simultaneously to bypass individual rate limits.
+* **Safety Interlock**: UI-based button confirmation to prevent accidental deployments.
+* **High-Fidelity Telemetry**: Advanced Discord embeds featuring target snapshots and initiator tracking.
+* **Zero-Footprint Execution**: Automated message cleanup and background firing logic.
+
+---
+
+## 🛠 Installation
+
+1. **Clone the Infrastructure**
+   ```bash
+   git clone [https://github.com/YourUsername/Vanta-Reporter.git](https://github.com/YourUsername/Vanta-Reporter.git)
+   cd Vanta-Reporter
