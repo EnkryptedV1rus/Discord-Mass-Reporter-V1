@@ -1,11 +1,10 @@
-# ☣ VANTA | MULTI-NODE MASS REPORTER 
+# 🔥 VANTA MASS REPORTER
 
 ![Version](https://img.shields.io/badge/Version-4.0.2-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-black?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Operational-green?style=for-the-badge)
 
-> **VANTA** is a high-performance, multi-threaded coordination kernel designed for synchronized node operations. Optimized for speed, stealth, and high-fidelity telemetry.
-
+> **DISCLAIMER** Using discord.py-self is bannable by Discord since it's a "selfbot".
 ---
 
 ## ⚡ Core Features
